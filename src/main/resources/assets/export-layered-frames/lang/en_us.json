@@ -1,0 +1,18 @@
+{
+	"key.categories.exportlayeredframes": "Export Layered Frames",
+	"key.exportlayeredframes.layered_screenshot": "Take Layered Screenshot",
+	"key.exportlayeredframes.layered_video": "Take Layered Video",
+	"key.exportlayeredframes.settings_menu": "Open Settings",
+
+	"exportlayeredframes.screenshot": "Saved layered screenshots:",
+	"exportlayeredframes.screenshotlayer": "%s: ",
+	
+	"exportlayeredframes.settingsmenu.title": "Export Layered Frames Settings",
+
+	"exportlayeredframes.layer.world": "World",
+	"exportlayeredframes.layer.gui": "Gui",
+
+	"exportlayeredframes.layer.hand": "Hand",
+	"exportlayeredframes.layer.hotbar": "Hotbar",
+	"exportlayeredframes.layer.chat": "Chat"
+}

@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "export-layered-frames",
+	"version": "0.0.1",
+	"name": "Export Layered Frames",
+	"description": "While in a world multiple videos will be exported, each one containing a different render layer. The audio and camera path will also be exported.",
+	"authors": [
+		"Theooolone"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/export-layered-frames",
+		"sources": "https://modrinth.com/mod/export-layered-frames"
+	},
+	"license": "CC BY-SA 4.0",
+	"icon": "assets/export-layered-frames/iconsimple.png",
+	"environment": "*",
+	"entrypoints": {
+		"client": [
+			"com.exportlayeredframes.ExportLayeredFrames"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
